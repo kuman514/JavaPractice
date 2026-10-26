@@ -9,7 +9,7 @@ Java를 연습하는 레포지토리.
 - 기본 문법
   - 변수
   - [타입](https://github.com/kuman514/JavaPractice/blob/main/src/Types.java)
-  - 조건문
+  - [조건문](https://github.com/kuman514/JavaPractice/blob/main/src/Conditions.java)
   - 반복문
   - 배열
   - 메서드
