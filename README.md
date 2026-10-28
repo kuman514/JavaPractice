@@ -8,10 +8,59 @@ Java를 연습하는 레포지토리.
 
 - 기본 문법
   - [변수와 타입](https://github.com/kuman514/JavaPractice/blob/main/src/Types.java)
+    - 원시 자료형
+      - 원시 자료형의 종류
+      - 특징
+    - 참조 자료형
+      - String
+    - 스택
+    - 힙
+    - 원시 자료형과 참조 자료형의 차이
+    - 원시 <-> 참조 자료형
+      - 박싱
+      - 언박싱
+      - Wrapper 클래스
   - [조건문](https://github.com/kuman514/JavaPractice/blob/main/src/Conditions.java)
+    - if
+      - if에 들어갈 수 있는 자료형
+    - if-else
+    - switch-case
+      - switch-case에 들어갈 수 있는 자료형
   - [반복문](https://github.com/kuman514/JavaPractice/blob/main/src/Loops.java)
+    - for
+    - while
+    - do-while
+    - break
+    - continue
   - [배열](https://github.com/kuman514/JavaPractice/blob/main/src/ArrayTypes.java)
+    - 배열 선언
+    - 배열 복사: for, Arrays.copyOf, System.copyarray
+    - 배열 출력: for, Arrays.toString
+    - 배열 비교: Arrays.equals
+    - 배열 정렬: Arrays.sort
+      - Collections.reverseOrder
+    - 다차원 배열
+      - 다차원 배열 선언
+      - 다차원 배열 출력: for, Arrays.deepToString
+      - 다차원 배열 비교: Arrays.deepEquals
+      - 가변 배열 선언
+    - 객체 배열
+      - 객체 배열 정렬
+        - Comparable<T>
+        - Comparator<T> 또는 Java 8 람다식
+        - Comparator.comparing과 Comparator.thenComparing
   - [메소드](https://github.com/kuman514/JavaPractice/blob/main/src/Methods.java)
+    - 구성
+      - 접근제한자
+        - private
+        - protected
+        - public
+        - default
+      - 반환형
+      - 함수명
+      - 매개변수
+      - 구현부
+    - 호출 방법
 - 객체지향
   - 클래스와 객체
   - 생성자
