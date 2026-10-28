@@ -7,12 +7,11 @@ Java를 연습하는 레포지토리.
 아래 내용을 학습한다.
 
 - 기본 문법
-  - 변수
-  - [타입](https://github.com/kuman514/JavaPractice/blob/main/src/Types.java)
+  - [변수와 타입](https://github.com/kuman514/JavaPractice/blob/main/src/Types.java)
   - [조건문](https://github.com/kuman514/JavaPractice/blob/main/src/Conditions.java)
   - [반복문](https://github.com/kuman514/JavaPractice/blob/main/src/Loops.java)
   - [배열](https://github.com/kuman514/JavaPractice/blob/main/src/ArrayTypes.java)
-  - 메서드
+  - [메소드](https://github.com/kuman514/JavaPractice/blob/main/src/Methods.java)
 - 객체지향
   - 클래스와 객체
   - 생성자
