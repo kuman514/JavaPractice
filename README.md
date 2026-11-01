@@ -62,13 +62,26 @@ Java를 연습하는 레포지토리.
       - 구현부
     - 호출 방법
 - 객체지향
-  - 클래스와 객체
-  - 생성자
-  - 캡슐화
-  - 상속
-  - 다형성
-  - 인터페이스
-  - 추상 클래스
+  - 객체지향이란
+  - 객체지향의 특징
+    - 캡슐화
+    - 상속
+    - 다형성
+    - 추상화
+  - 객체지향의 장단점
+  - 객체지향의 구성요소
+    - 클래스와 객체
+    - 생성자와 파괴자
+    - 속성과 메소드
+    - 접근제한자
+    - 상속
+      - 오버로딩과 오버라이딩
+    - 클래스 간 관계
+      - is-a 관계
+      - has-a 관계
+    - 인터페이스
+    - 추상 클래스
+  - 참고: https://github.com/kuman514/ComputerScienceCores/blob/main/object-oriented-programming/readme.md
 - 컬렉션
   - List와 ArrayList
   - Map와 HashMap
