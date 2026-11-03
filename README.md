@@ -84,7 +84,7 @@ Java를 연습하는 레포지토리.
   - 참고: https://github.com/kuman514/ComputerScienceCores/blob/main/object-oriented-programming/readme.md
 - 컬렉션
   - [List와 ArrayList](https://github.com/kuman514/JavaPractice/blob/main/src/Lists.java)
-  - Map와 HashMap
+  - [Map와 HashMap](https://github.com/kuman514/JavaPractice/blob/main/src/Maps.java)
   - Set과 HashSet
   - equals와 hashCode의 관계
 - 예외 처리
