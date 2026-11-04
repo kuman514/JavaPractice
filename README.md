@@ -85,7 +85,7 @@ Java를 연습하는 레포지토리.
 - 컬렉션
   - [List와 ArrayList](https://github.com/kuman514/JavaPractice/blob/main/src/Lists.java)
   - [Map와 HashMap](https://github.com/kuman514/JavaPractice/blob/main/src/Maps.java)
-  - Set과 HashSet
+  - [Set과 HashSet](https://github.com/kuman514/JavaPractice/blob/main/src/Sets.java)
   - equals와 hashCode의 관계
 - 예외 처리
   - checked와 unchecked의 차이
