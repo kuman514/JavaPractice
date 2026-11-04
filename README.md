@@ -84,9 +84,24 @@ Java를 연습하는 레포지토리.
   - 참고: https://github.com/kuman514/ComputerScienceCores/blob/main/object-oriented-programming/readme.md
 - 컬렉션
   - [List와 ArrayList](https://github.com/kuman514/JavaPractice/blob/main/src/Lists.java)
+    - List 인터페이스
+    - ArrayList
+      - 접근, 삽입, 삭제, 수정 방법
+      - ArrayList가 메모리를 할당받는 방법
   - [Map와 HashMap](https://github.com/kuman514/JavaPractice/blob/main/src/Maps.java)
+    - Map 인터페이스
+    - HashMap
+      - 접근, 삽입, 삭제, 수정 방법
+    - HashMap, LinkedHashMap, TreeMap 간의 차이
   - [Set과 HashSet](https://github.com/kuman514/JavaPractice/blob/main/src/Sets.java)
+    - Set 인터페이스
+    - HashSet
+      - 접근, 삽입, 삭제, 수정 방법
   - [equals와 hashCode의 관계](https://github.com/kuman514/JavaPractice/blob/main/src/EqualsHashCode.java)
+    - == 연산자
+    - equals 메소드
+    - hashCode 메소드
+    - equals 오버라이딩 시 hashCode 오버라이딩의 필요성
 - 예외 처리
   - checked와 unchecked의 차이
   - try-catch
