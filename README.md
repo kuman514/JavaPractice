@@ -108,7 +108,17 @@ Java를 연습하는 레포지토리.
     - hashCode 메소드
     - equals 오버라이딩 시 hashCode 오버라이딩의 필요성
 - 예외 처리
-  - checked와 unchecked의 차이
+  - checked와 unchecked의 차이: 예외가 발견되는 시점, try-catch 또는 throw를 통한 명시적인 예외 처리 필요 유무 등등
+    - checked
+      - 반드시 명시적인 예외 처리가 필요함
+      - 컴파일 시점에서 발견 (즉, 예외 처리를 하지 않으면 컴파일 자체가 되지 않는다)
+      - RuntimeException이 아닌 Exception 클래스 또는 이를 상속받는 하위 클래스들이 해당된다.
+        - 예시: IOException, FileNotFoundException, SQLException 등등
+    - unchecked
+      - 명시적인 예외를 처리할 필요가 없음
+      - 런타임 시점에서 발견
+      - RuntimeException 클래스 또는 이를 상속받는 하위 클래스들이 해당한다.
+        - 예시: NullPointerException, IndexOutOfBoundException, IllegalArgumentException, SystemException 등등
   - try-catch
   - 그 외 커스텀 예외
 - 제네릭
