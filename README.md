@@ -119,7 +119,7 @@ Java를 연습하는 레포지토리.
       - 런타임 시점에서 발견
       - RuntimeException 클래스 또는 이를 상속받는 하위 클래스들이 해당한다.
         - 예시: NullPointerException, IndexOutOfBoundException, IllegalArgumentException, SystemException 등등
-  - try-catch
+  - [try-catch](https://github.com/kuman514/JavaPractice/blob/main/src/TryCatch.java)
   - 그 외 커스텀 예외
 - 제네릭
 - 람다와 스트림
