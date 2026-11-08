@@ -120,7 +120,7 @@ Java를 연습하는 레포지토리.
       - RuntimeException 클래스 또는 이를 상속받는 하위 클래스들이 해당한다.
         - 예시: NullPointerException, IndexOutOfBoundException, IllegalArgumentException, SystemException 등등
   - [try-catch](https://github.com/kuman514/JavaPractice/blob/main/src/TryCatch.java)
-  - 그 외 커스텀 예외
+  - [그 외 커스텀 예외](https://github.com/kuman514/JavaPractice/blob/main/src/CustomException.java)
 - 제네릭
 - 람다와 스트림
   - stream
