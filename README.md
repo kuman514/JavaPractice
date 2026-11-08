@@ -126,6 +126,19 @@ Java를 연습하는 레포지토리.
         - 예시: NullPointerException, IndexOutOfBoundException, IllegalArgumentException, SystemException 등등
   - [try-catch](https://github.com/kuman514/JavaPractice/blob/main/src/TryCatch.java)
   - [그 외 커스텀 예외](https://github.com/kuman514/JavaPractice/blob/main/src/CustomException.java)
+  - throw와 throws의 차이
+    - throw
+      - 구현부 내에서 강제로 예외를 던지는 역할.
+      - 런타임 시점에서 발생함.
+      - 단일 예외 객체만 던질 수 있음.
+      - 예시
+        - `throw new AggieKoishiException("Koishi is an adorable Aggie!");`
+    - throws
+      - 선언부에서 해당 메소드가 예외를 던질 수 있다고 알리며, 해당 메소드를 호출한 곳에 예외 처리를 위임하는 역할.
+      - 컴파일 시점에서 컴파일러에게 예외 가능성 알림.
+      - 여러 예외 객체를 던진다고 예고할 수 있음.
+      - 예시
+        - `public void CallAggie(...) throws KoishiException, HoshinoException { ...; }`
 - 제네릭
 - 람다와 스트림
   - stream
